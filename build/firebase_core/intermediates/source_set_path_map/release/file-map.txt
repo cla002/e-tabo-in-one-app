@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\010a71c385d2d60b5db9948da72f787e\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\6e98835874f9510383cc52d3e1bfaf5e\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\bab7bde259c9c4450bd8ca836c07e644\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.2-4 C:\Users\Administrator\.gradle\caches\transforms-3\de878dcd05748d309690a17309fd3aed\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-5 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.1\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.1\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\intermediates\merged_res\release

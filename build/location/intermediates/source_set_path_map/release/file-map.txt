@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-play-services-basement-18.1.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\010a71c385d2d60b5db9948da72f787e\transformed\jetified-play-services-basement-18.1.0\res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+com.lyokone.location-core-1.10.1-2 C:\Users\Administrator\.gradle\caches\transforms-3\4939d1088994c718cbc762c41ca64f5c\transformed\core-1.10.1\res
+com.lyokone.location-lifecycle-runtime-2.3.1-3 C:\Users\Administrator\.gradle\caches\transforms-3\6ee53bb0bf03e75775c8bbadef076cff\transformed\lifecycle-runtime-2.3.1\res
+com.lyokone.location-jetified-annotation-experimental-1.3.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\bab942b3ce0b368b235e57a1c1196215\transformed\jetified-annotation-experimental-1.3.0\res
+com.lyokone.location-jetified-window-1.0.0-beta04-5 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+com.lyokone.location-jetified-play-services-base-18.1.0-6 C:\Users\Administrator\.gradle\caches\transforms-3\f3be1a098715d0b0d243da846335b02e\transformed\jetified-play-services-base-18.1.0\res
+com.lyokone.location-jetified-core-ktx-1.10.1-7 C:\Users\Administrator\.gradle\caches\transforms-3\f9f7b33895b2aab9151b235f37f46447\transformed\jetified-core-ktx-1.10.1\res
+com.lyokone.location-main-8 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\location-5.0.3\android\src\main\res
+com.lyokone.location-release-9 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\location-5.0.3\android\src\release\res
+com.lyokone.location-pngs-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\location\generated\res\pngs\release
+com.lyokone.location-resValues-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\location\generated\res\resValues\release
+com.lyokone.location-rs-12 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\location\generated\res\rs\release
+com.lyokone.location-mergeReleaseResources-13 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\location\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.lyokone.location-mergeReleaseResources-14 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\location\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.lyokone.location-merged_res-15 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\location\intermediates\merged_res\release

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.yourcompany.geocoder.flutter_geocoder-merged_res-10:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.yourcompany.geocoder.flutter_geocoder-core-1.6.0-1:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.yourcompany.geocoder.flutter_geocoder-merged_res-10:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.yourcompany.geocoder.flutter_geocoder-core-1.6.0-1:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.yourcompany.geocoder.flutter_geocoder-merged_res-10:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.yourcompany.geocoder.flutter_geocoder-core-1.6.0-1:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.yourcompany.geocoder.flutter_geocoder-merged_res-10:/layout-v21/notification_action.xml",
+        "source": "com.yourcompany.geocoder.flutter_geocoder-core-1.6.0-1:/layout-v21/notification_action.xml"
+    }
+]

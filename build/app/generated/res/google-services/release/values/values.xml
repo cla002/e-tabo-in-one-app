@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">467094075070</string>
+    <string name="google_api_key" translatable="false">AIzaSyBA0K4Ds872br9aM8xYgqNPM7ynYz3va0M</string>
+    <string name="google_app_id" translatable="false">1:467094075070:android:f625a086adae6f48be50ef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBA0K4Ds872br9aM8xYgqNPM7ynYz3va0M</string>
+    <string name="google_storage_bucket" translatable="false">e-tabo-app-firebase.appspot.com</string>
+    <string name="project_id" translatable="false">e-tabo-app-firebase</string>
+</resources>

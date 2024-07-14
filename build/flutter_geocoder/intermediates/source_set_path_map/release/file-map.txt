@@ -1,0 +1,12 @@
+com.yourcompany.geocoder.flutter_geocoder-jetified-window-java-1.0.0-beta04-0 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+com.yourcompany.geocoder.flutter_geocoder-core-1.6.0-1 C:\Users\Administrator\.gradle\caches\transforms-3\6e98835874f9510383cc52d3e1bfaf5e\transformed\core-1.6.0\res
+com.yourcompany.geocoder.flutter_geocoder-jetified-annotation-experimental-1.1.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\bab7bde259c9c4450bd8ca836c07e644\transformed\jetified-annotation-experimental-1.1.0\res
+com.yourcompany.geocoder.flutter_geocoder-jetified-window-1.0.0-beta04-3 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+com.yourcompany.geocoder.flutter_geocoder-main-4 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_geocoder-0.2.2-nullsafety\android\src\main\res
+com.yourcompany.geocoder.flutter_geocoder-release-5 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_geocoder-0.2.2-nullsafety\android\src\release\res
+com.yourcompany.geocoder.flutter_geocoder-pngs-6 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\flutter_geocoder\generated\res\pngs\release
+com.yourcompany.geocoder.flutter_geocoder-resValues-7 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\flutter_geocoder\generated\res\resValues\release
+com.yourcompany.geocoder.flutter_geocoder-rs-8 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\flutter_geocoder\generated\res\rs\release
+com.yourcompany.geocoder.flutter_geocoder-mergeReleaseResources-9 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\flutter_geocoder\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.yourcompany.geocoder.flutter_geocoder-mergeReleaseResources-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\flutter_geocoder\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.yourcompany.geocoder.flutter_geocoder-merged_res-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\flutter_geocoder\intermediates\merged_res\release

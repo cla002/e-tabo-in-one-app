@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\010a71c385d2d60b5db9948da72f787e\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\6e98835874f9510383cc52d3e1bfaf5e\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\bab7bde259c9c4450bd8ca836c07e644\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-4 C:\Users\Administrator\.gradle\caches\transforms-3\bae50eb8cc96a69ef6c843697f1ed680\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.4.2-5 C:\Users\Administrator\.gradle\caches\transforms-3\de878dcd05748d309690a17309fd3aed\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-6 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.15.9\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.15.9\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\firebase_core\intermediates\packaged_res\release

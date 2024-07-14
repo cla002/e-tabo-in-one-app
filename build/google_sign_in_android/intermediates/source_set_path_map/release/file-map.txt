@@ -1,0 +1,22 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-savedstate-1.2.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\023693e93676fd78360c21f192c528aa\transformed\jetified-savedstate-1.2.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-fragment-1.5.7-1 C:\Users\Administrator\.gradle\caches\transforms-3\10146ee8111cdff5cba6f8c5dffef979\transformed\fragment-1.5.7\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-2 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-lifecycle-livedata-core-2.5.1-3 C:\Users\Administrator\.gradle\caches\transforms-3\5a2fc4e952aaa9ad20ebd9526d4793ec\transformed\lifecycle-livedata-core-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-21.0.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\ba4edd0289acd67c1edcaa0e622bc516\transformed\jetified-play-services-auth-21.0.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-5 C:\Users\Administrator\.gradle\caches\transforms-3\bab7bde259c9c4450bd8ca836c07e644\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-6 C:\Users\Administrator\.gradle\caches\transforms-3\bae50eb8cc96a69ef6c843697f1ed680\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.2.0-7 C:\Users\Administrator\.gradle\caches\transforms-3\be3e0c69961d7cc6e9ec1a70921094b0\transformed\jetified-play-services-basement-18.2.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-8 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-lifecycle-viewmodel-savedstate-2.5.1-9 C:\Users\Administrator\.gradle\caches\transforms-3\e702a88b953ecd7aa2472833da9d7abf\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.8.0-10 C:\Users\Administrator\.gradle\caches\transforms-3\e88ccf79ddfc24e9a573d559e7819ed4\transformed\core-1.8.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-activity-1.5.1-11 C:\Users\Administrator\.gradle\caches\transforms-3\f5d5354f615783627ac46abcd302df81\transformed\jetified-activity-1.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-lifecycle-runtime-2.5.1-12 C:\Users\Administrator\.gradle\caches\transforms-3\fdf20fd8da0bc6b303456f78ed91924a\transformed\lifecycle-runtime-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-lifecycle-viewmodel-2.5.1-13 C:\Users\Administrator\.gradle\caches\transforms-3\fe3d968a644ca38710f542a2d71b5c6e\transformed\lifecycle-viewmodel-2.5.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-14 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.22\android\src\main\res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-15 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.22\android\src\release\res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-16 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\google_sign_in_android\generated\res\pngs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-17 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\google_sign_in_android\generated\res\resValues\release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-18 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\google_sign_in_android\generated\res\rs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-19 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-20 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-21 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\google_sign_in_android\intermediates\merged_res\release

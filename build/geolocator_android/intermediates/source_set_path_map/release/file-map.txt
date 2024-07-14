@@ -1,0 +1,15 @@
+com.baseflow.geolocator.geolocator_android-jetified-play-services-basement-18.1.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\010a71c385d2d60b5db9948da72f787e\transformed\jetified-play-services-basement-18.1.0\res
+com.baseflow.geolocator.geolocator_android-jetified-window-java-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.geolocator.geolocator_android-lifecycle-runtime-2.3.1-2 C:\Users\Administrator\.gradle\caches\transforms-3\6ee53bb0bf03e75775c8bbadef076cff\transformed\lifecycle-runtime-2.3.1\res
+com.baseflow.geolocator.geolocator_android-jetified-annotation-experimental-1.3.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\bab942b3ce0b368b235e57a1c1196215\transformed\jetified-annotation-experimental-1.3.0\res
+com.baseflow.geolocator.geolocator_android-core-1.9.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\c41f37d96d9d4056a03b4ae143db03ca\transformed\core-1.9.0\res
+com.baseflow.geolocator.geolocator_android-jetified-window-1.0.0-beta04-5 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-base-18.1.0-6 C:\Users\Administrator\.gradle\caches\transforms-3\f3be1a098715d0b0d243da846335b02e\transformed\jetified-play-services-base-18.1.0\res
+com.baseflow.geolocator.geolocator_android-main-7 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.4\android\src\main\res
+com.baseflow.geolocator.geolocator_android-release-8 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.5.4\android\src\release\res
+com.baseflow.geolocator.geolocator_android-pngs-9 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\geolocator_android\generated\res\pngs\release
+com.baseflow.geolocator.geolocator_android-resValues-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\geolocator_android\generated\res\resValues\release
+com.baseflow.geolocator.geolocator_android-rs-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\geolocator_android\generated\res\rs\release
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\geolocator_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\geolocator_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.geolocator.geolocator_android-merged_res-14 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\geolocator_android\intermediates\merged_res\release

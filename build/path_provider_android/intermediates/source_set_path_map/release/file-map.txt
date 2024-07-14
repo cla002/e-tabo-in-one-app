@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-0 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-1 C:\Users\Administrator\.gradle\caches\transforms-3\6e98835874f9510383cc52d3e1bfaf5e\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\bab7bde259c9c4450bd8ca836c07e644\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-3 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.2\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.2\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\path_provider_android\intermediates\merged_res\release

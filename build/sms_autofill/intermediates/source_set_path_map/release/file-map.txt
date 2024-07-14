@@ -1,0 +1,16 @@
+com.jaumard.smsautofill.sms_autofill-jetified-window-java-1.0.0-beta04-0 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+com.jaumard.smsautofill.sms_autofill-lifecycle-runtime-2.3.1-1 C:\Users\Administrator\.gradle\caches\transforms-3\6ee53bb0bf03e75775c8bbadef076cff\transformed\lifecycle-runtime-2.3.1\res
+com.jaumard.smsautofill.sms_autofill-jetified-annotation-experimental-1.3.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\bab942b3ce0b368b235e57a1c1196215\transformed\jetified-annotation-experimental-1.3.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-18.0.1-3 C:\Users\Administrator\.gradle\caches\transforms-3\bae50eb8cc96a69ef6c843697f1ed680\transformed\jetified-play-services-base-18.0.1\res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-basement-18.2.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\be3e0c69961d7cc6e9ec1a70921094b0\transformed\jetified-play-services-basement-18.2.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-auth-20.7.0-5 C:\Users\Administrator\.gradle\caches\transforms-3\be4f102e4e9e8d476aaeaf784cb60f29\transformed\jetified-play-services-auth-20.7.0\res
+com.jaumard.smsautofill.sms_autofill-core-1.12.0-6 C:\Users\Administrator\.gradle\caches\transforms-3\c770e478768c5404de32a9b12d85523b\transformed\core-1.12.0\res
+com.jaumard.smsautofill.sms_autofill-jetified-window-1.0.0-beta04-7 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+com.jaumard.smsautofill.sms_autofill-main-8 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\sms_autofill-2.3.1\android\src\main\res
+com.jaumard.smsautofill.sms_autofill-release-9 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\sms_autofill-2.3.1\android\src\release\res
+com.jaumard.smsautofill.sms_autofill-pngs-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\sms_autofill\generated\res\pngs\release
+com.jaumard.smsautofill.sms_autofill-resValues-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\sms_autofill\generated\res\resValues\release
+com.jaumard.smsautofill.sms_autofill-rs-12 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\sms_autofill\generated\res\rs\release
+com.jaumard.smsautofill.sms_autofill-mergeReleaseResources-13 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\sms_autofill\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.jaumard.smsautofill.sms_autofill-mergeReleaseResources-14 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\sms_autofill\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.jaumard.smsautofill.sms_autofill-merged_res-15 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\sms_autofill\intermediates\merged_res\release

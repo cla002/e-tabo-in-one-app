@@ -1,0 +1,12 @@
+com.alexmiller.map_launcher-jetified-window-java-1.0.0-beta04-0 C:\Users\Administrator\.gradle\caches\transforms-3\337126e5a94dab924c8934e3b917c87d\transformed\jetified-window-java-1.0.0-beta04\res
+com.alexmiller.map_launcher-core-1.6.0-1 C:\Users\Administrator\.gradle\caches\transforms-3\6e98835874f9510383cc52d3e1bfaf5e\transformed\core-1.6.0\res
+com.alexmiller.map_launcher-jetified-annotation-experimental-1.1.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\bab7bde259c9c4450bd8ca836c07e644\transformed\jetified-annotation-experimental-1.1.0\res
+com.alexmiller.map_launcher-jetified-window-1.0.0-beta04-3 C:\Users\Administrator\.gradle\caches\transforms-3\e6ca28d6da1806539f376f0db21870f2\transformed\jetified-window-1.0.0-beta04\res
+com.alexmiller.map_launcher-main-4 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.2.0\android\src\main\res
+com.alexmiller.map_launcher-release-5 C:\Users\Administrator\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.2.0\android\src\release\res
+com.alexmiller.map_launcher-pngs-6 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\map_launcher\generated\res\pngs\release
+com.alexmiller.map_launcher-resValues-7 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\map_launcher\generated\res\resValues\release
+com.alexmiller.map_launcher-rs-8 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\map_launcher\generated\res\rs\release
+com.alexmiller.map_launcher-mergeReleaseResources-9 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\map_launcher\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.alexmiller.map_launcher-mergeReleaseResources-10 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\map_launcher\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.alexmiller.map_launcher-merged_res-11 C:\Users\Administrator\Flutter E-Tabo\e_tabo_app\build\map_launcher\intermediates\merged_res\release
